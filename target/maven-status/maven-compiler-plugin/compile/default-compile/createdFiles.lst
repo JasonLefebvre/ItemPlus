@@ -1,0 +1,4 @@
+org\jason\itemsplus\Managers\ItemManager.class
+org\jason\itemsplus\ItemsPlus.class
+org\jason\itemsplus\Listeners\HammerEvent.class
+org\jason\itemsplus\Builders\ItemBuilder.class
