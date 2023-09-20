@@ -1,0 +1,4 @@
+name: ItemsPlus
+version: '${project.version}'
+main: org.jason.itemsplus.ItemsPlus
+api-version: '1.20'
